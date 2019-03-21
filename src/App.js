@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <ThemeProvider theme={colors}>
         <AppLayout>
-          <Title>Laser control panel</Title>
+          <Title>Laser control panel 2</Title>
           <ControlPanel />
           <GlobalStyle />
         </AppLayout>
